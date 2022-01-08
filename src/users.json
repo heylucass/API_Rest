@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "name" : "lucas",
+        "email" : "lucasnasc@email.com",
+        "since" : 1990
+    },
+    {
+        "id" : 2,
+        "name" : "mateus",
+        "email" : "mattc@email.com",
+        "since" : 1998
+    
+    },
+    {
+        "id" : 3,
+        "name" : "livia",
+        "email" : "livy@email.com",
+        "since" : 1999
+    
+    }
+
+]
